@@ -11,9 +11,9 @@ responderConsolidate.py was created to consolidate and parse mass amounts of has
 
 ### Screenshots
 
-![Alt text](/responderConsolidate/respCon_help.jpg?raw=true "Help_menu")
+![Alt text](/respCon_help.jpg?raw=true "Help_menu")
 
-![Alt text](/responderConsolidate/respCon_execute.jpg?raw=true "Example_execute")
+![Alt text](/respCon_execute.jpg?raw=true "Example_execute")
 
 ## ToDo
 * [ ] Clean up statements for consolidation
